@@ -1,1 +1,1 @@
-JavaScript warm up
+my first JS code
