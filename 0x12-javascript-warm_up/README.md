@@ -1,1 +1,3 @@
-my first JS code
+# javascript - Warm up
+
+ Foundations - Higher-level programming  Javascript
